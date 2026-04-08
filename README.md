@@ -86,12 +86,7 @@ This means the model’s prediction is off by about 1.4 minutes on average.
 ## 7. Project Structure
 nyc-taxi-trip-duration-ml/
 │
-├── data/
 ├── notebooks/
-├── src/
-├── models/
-├── report/
-├── presentation/
 ├── README.md
 └── requirements.txt
 
